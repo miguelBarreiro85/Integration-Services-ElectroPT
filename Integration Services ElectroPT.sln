@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services ElectroPT", "Integration Services ElectroPT.dtproj", "{7E3BE889-CE3A-4F93-8636-783D5B3951E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3BE889-CE3A-4F93-8636-783D5B3951E4}.Development|Default.ActiveCfg = Development
+		{7E3BE889-CE3A-4F93-8636-783D5B3951E4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC55A1F-0934-4E9C-A8A1-8DE92C7A7160}
+	EndGlobalSection
+EndGlobal
